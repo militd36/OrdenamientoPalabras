@@ -4,7 +4,7 @@
 const int MAX_PALABRAS= 50;
 const int  MAX_LETRAS = 33;
 using namespace std;
-
+//test milita210324
 void IniWord(char word[MAX_LETRAS]);
 void IniPalabras(char palabras[MAX_PALABRAS][MAX_LETRAS]);
 int wordlen(char word[MAX_LETRAS]);
